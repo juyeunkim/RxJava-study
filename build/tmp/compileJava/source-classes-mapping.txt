@@ -18,3 +18,9 @@ common/CarMaker.java
  common.CarMaker
 com/rxJava/chapter3/HotPublisher.java
  com.rxJava.chapter3.HotPublisher
+com/rxJava/chapter4/FunctionalDescriptorPredicateExample.java
+ com.rxJava.chapter4.FunctionalDescriptorPredicateExample
+com/rxJava/chapter4/FunctionalDescriptorConsumer.java
+ com.rxJava.chapter4.FunctionalDescriptorConsumer
+com/rxJava/chapter4/FunctionalDescriptorFunctionExample.java
+ com.rxJava.chapter4.FunctionalDescriptorFunctionExample
