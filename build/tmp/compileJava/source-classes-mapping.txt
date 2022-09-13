@@ -24,3 +24,9 @@ com/rxJava/chapter4/FunctionalDescriptorConsumer.java
  com.rxJava.chapter4.FunctionalDescriptorConsumer
 com/rxJava/chapter4/FunctionalDescriptorFunctionExample.java
  com.rxJava.chapter4.FunctionalDescriptorFunctionExample
+com/rxJava/chapter5/ObservableIntervalExample.java
+ com.rxJava.chapter5.ObservableIntervalExample
+com/rxJava/chapter5/ObservableDeferExample.java
+ com.rxJava.chapter5.ObservableDeferExample
+com/rxJava/chapter5/ObservableFromIterableExample.java
+ com.rxJava.chapter5.ObservableFromIterableExample
