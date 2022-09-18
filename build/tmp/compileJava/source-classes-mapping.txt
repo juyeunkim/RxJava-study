@@ -51,3 +51,5 @@ com/rxJava/chapter5/ObservableSwitchMapExample01.java
 com/rxJava/chapter5/ObservableSwitchMapExample02.java
  com.rxJava.chapter5.ObservableSwitchMapExample02
  com.rxJava.chapter5.ObservableSwitchMapExample02$Searcher
+com/rxJava/chapter5/quiz/QuizTransferOperator.java
+ com.rxJava.chapter5.quiz.QuizTransferOperator
