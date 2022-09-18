@@ -36,5 +36,18 @@ common/SampleData.java
  common.SampleData
 common/TimeUtil.java
  common.TimeUtil
-com/rxJava/chapter5/Quiz.java
- com.rxJava.chapter5.Quiz
+com/rxJava/chapter5/quiz/Quiz.java
+ com.rxJava.chapter5.quiz.Quiz
+com/rxJava/chapter5/ObservableFlatMapExample01.java
+ com.rxJava.chapter5.ObservableFlatMapExample01
+com/rxJava/chapter5/ObservableFlatMapExample02.java
+ com.rxJava.chapter5.ObservableFlatMapExample02
+com/rxJava/chapter5/ObservableFlatMapExample03.java
+ com.rxJava.chapter5.ObservableFlatMapExample03
+com/rxJava/chapter5/ObservableConcatMapExample01.java
+ com.rxJava.chapter5.ObservableConcatMapExample01
+com/rxJava/chapter5/ObservableSwitchMapExample01.java
+ com.rxJava.chapter5.ObservableSwitchMapExample01
+com/rxJava/chapter5/ObservableSwitchMapExample02.java
+ com.rxJava.chapter5.ObservableSwitchMapExample02
+ com.rxJava.chapter5.ObservableSwitchMapExample02$Searcher

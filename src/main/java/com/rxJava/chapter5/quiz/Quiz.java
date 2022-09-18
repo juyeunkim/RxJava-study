@@ -1,4 +1,4 @@
-package com.rxJava.chapter5;
+package com.rxJava.chapter5.quiz;
 
 import common.CarMaker;
 import common.SampleData;
