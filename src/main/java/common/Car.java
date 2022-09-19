@@ -70,4 +70,15 @@ public class Car {
     public void setNew(boolean aNew) {
         isNew = aNew;
     }
+
+    @Override
+    public String toString() {
+        return "Car{" +
+                "carMaker=" + carMaker +
+                ", carType=" + carType +
+                ", carName='" + carName + '\'' +
+                ", carPrice=" + carPrice +
+                ", isNew=" + isNew +
+                '}';
+    }
 }

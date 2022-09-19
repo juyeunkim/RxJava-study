@@ -1,11 +1,12 @@
-common/CarPredicate.java
- common.CarPredicate
-com/rxJava/chapter4/FunctionalInterfaceToLambdaExample.java
- com.rxJava.chapter4.FunctionalInterfaceToLambdaExample
-common/CarFilter.java
- common.CarFilter
-common/Car.java
- common.Car
+com/rxJava/chapter5/ObservableToListExample01.java
+ com.rxJava.chapter5.ObservableToListExample01
+com/rxJava/chapter5/ObservableSwitchMapExample02.java
+ com.rxJava.chapter5.ObservableSwitchMapExample02
+ com.rxJava.chapter5.ObservableSwitchMapExample02$Searcher
+com/rxJava/chapter5/quiz/QuizTransferOperator.java
+ com.rxJava.chapter5.quiz.QuizTransferOperator
+com/rxJava/chapter5/ObservableSwitchMapExample01.java
+ com.rxJava.chapter5.ObservableSwitchMapExample01
 com/rxJava/chapter2/HelloRxJava.java
  com.rxJava.chapter2.HelloRxJava
 com/rxJava/chapter3/MaybeFromSingle.java
@@ -32,24 +33,35 @@ com/rxJava/chapter5/ObservableFromIterableExample.java
  com.rxJava.chapter5.ObservableFromIterableExample
 com/rxJava/chapter5/ObservableTakeUntilExample01.java
  com.rxJava.chapter5.ObservableTakeUntilExample01
-common/SampleData.java
- common.SampleData
+com/rxJava/chapter5/ObservableToListExample02.java
+ com.rxJava.chapter5.ObservableToListExample02
 common/TimeUtil.java
  common.TimeUtil
-com/rxJava/chapter5/quiz/Quiz.java
- com.rxJava.chapter5.quiz.Quiz
+com/rxJava/chapter5/ObservableConcatMapExample01.java
+ com.rxJava.chapter5.ObservableConcatMapExample01
 com/rxJava/chapter5/ObservableFlatMapExample01.java
  com.rxJava.chapter5.ObservableFlatMapExample01
 com/rxJava/chapter5/ObservableFlatMapExample02.java
  com.rxJava.chapter5.ObservableFlatMapExample02
 com/rxJava/chapter5/ObservableFlatMapExample03.java
  com.rxJava.chapter5.ObservableFlatMapExample03
-com/rxJava/chapter5/ObservableConcatMapExample01.java
- com.rxJava.chapter5.ObservableConcatMapExample01
-com/rxJava/chapter5/ObservableSwitchMapExample01.java
- com.rxJava.chapter5.ObservableSwitchMapExample01
-com/rxJava/chapter5/ObservableSwitchMapExample02.java
- com.rxJava.chapter5.ObservableSwitchMapExample02
- com.rxJava.chapter5.ObservableSwitchMapExample02$Searcher
-com/rxJava/chapter5/quiz/QuizTransferOperator.java
- com.rxJava.chapter5.quiz.QuizTransferOperator
+common/CarPredicate.java
+ common.CarPredicate
+common/SampleData.java
+ common.SampleData
+com/rxJava/chapter4/FunctionalInterfaceToLambdaExample.java
+ com.rxJava.chapter4.FunctionalInterfaceToLambdaExample
+common/CarFilter.java
+ common.CarFilter
+com/rxJava/chapter5/ObservableGroupByExample01.java
+ com.rxJava.chapter5.ObservableGroupByExample01
+common/Car.java
+ common.Car
+com/rxJava/chapter5/quiz/Quiz.java
+ com.rxJava.chapter5.quiz.Quiz
+com/rxJava/chapter5/ObservableToMapExample01.java
+ com.rxJava.chapter5.ObservableToMapExample01
+com/rxJava/chapter5/ObservableToMapExample02.java
+ com.rxJava.chapter5.ObservableToMapExample02
+com/rxJava/chapter5/quiz/QuizTransferOperator2.java
+ com.rxJava.chapter5.quiz.QuizTransferOperator2
