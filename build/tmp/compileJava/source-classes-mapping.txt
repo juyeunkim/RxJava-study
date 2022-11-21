@@ -33,8 +33,8 @@ com/rxJava/chapter5/ObservableFromIterableExample.java
  com.rxJava.chapter5.ObservableFromIterableExample
 com/rxJava/chapter5/ObservableTakeUntilExample01.java
  com.rxJava.chapter5.ObservableTakeUntilExample01
-com/rxJava/chapter5/ObservableToListExample02.java
- com.rxJava.chapter5.ObservableToListExample02
+common/Car.java
+ common.Car
 common/TimeUtil.java
  common.TimeUtil
 com/rxJava/chapter5/ObservableConcatMapExample01.java
@@ -47,21 +47,41 @@ com/rxJava/chapter5/ObservableFlatMapExample03.java
  com.rxJava.chapter5.ObservableFlatMapExample03
 common/CarPredicate.java
  common.CarPredicate
-common/SampleData.java
- common.SampleData
+com/rxJava/chapter5/ObservableToMapExample02.java
+ com.rxJava.chapter5.ObservableToMapExample02
 com/rxJava/chapter4/FunctionalInterfaceToLambdaExample.java
  com.rxJava.chapter4.FunctionalInterfaceToLambdaExample
 common/CarFilter.java
  common.CarFilter
-com/rxJava/chapter5/ObservableGroupByExample01.java
- com.rxJava.chapter5.ObservableGroupByExample01
-common/Car.java
- common.Car
-com/rxJava/chapter5/quiz/Quiz.java
- com.rxJava.chapter5.quiz.Quiz
 com/rxJava/chapter5/ObservableToMapExample01.java
  com.rxJava.chapter5.ObservableToMapExample01
-com/rxJava/chapter5/ObservableToMapExample02.java
- com.rxJava.chapter5.ObservableToMapExample02
+com/rxJava/chapter5/ObservableZipExample01.java
+ com.rxJava.chapter5.ObservableZipExample01
+com/rxJava/chapter5/ObservableMergeExample01.java
+ com.rxJava.chapter5.ObservableMergeExample01
+com/rxJava/chapter5/ObservableConcatExample01.java
+ com.rxJava.chapter5.ObservableConcatExample01
+com/rxJava/chapter5/ObservableCombineLatestExample01.java
+ com.rxJava.chapter5.ObservableCombineLatestExample01
+utils/NumberUtil.java
+ utils.NumberUtil
+com/rxJava/chapter5/ObservableCombineLatestExample02.java
+ com.rxJava.chapter5.ObservableCombineLatestExample02
+com/rxJava/chapter5/ObservableToListExample02.java
+ com.rxJava.chapter5.ObservableToListExample02
+common/SampleData.java
+ common.SampleData
+com/rxJava/chapter5/ObservableMergeExample02.java
+ com.rxJava.chapter5.ObservableMergeExample02
 com/rxJava/chapter5/quiz/QuizTransferOperator2.java
  com.rxJava.chapter5.quiz.QuizTransferOperator2
+com/rxJava/chapter5/ObservableZipExample02.java
+ com.rxJava.chapter5.ObservableZipExample02
+com/rxJava/chapter5/ObservableGroupByExample01.java
+ com.rxJava.chapter5.ObservableGroupByExample01
+com/rxJava/chapter5/quiz/Quiz.java
+ com.rxJava.chapter5.quiz.Quiz
+com/rxJava/chapter5/ObservableConcatExample02.java
+ com.rxJava.chapter5.ObservableConcatExample02
+com/rxJava/chapter5/quiz/QuizCombineOperator.java
+ com.rxJava.chapter5.quiz.QuizCombineOperator
