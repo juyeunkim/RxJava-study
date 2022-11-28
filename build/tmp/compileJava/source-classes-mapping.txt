@@ -85,3 +85,15 @@ com/rxJava/chapter5/ObservableConcatExample02.java
  com.rxJava.chapter5.ObservableConcatExample02
 com/rxJava/chapter5/quiz/QuizCombineOperator.java
  com.rxJava.chapter5.quiz.QuizCombineOperator
+com/rxJava/chapter5/GeneralErrorHandleExample.java
+ com.rxJava.chapter5.GeneralErrorHandleExample
+com/rxJava/chapter5/ObservableOnErrorReturnExample.java
+ com.rxJava.chapter5.ObservableOnErrorReturnExample
+com/rxJava/chapter5/ObservableOnErrorResumeNextExample.java
+ com.rxJava.chapter5.ObservableOnErrorResumeNextExample
+com/rxJava/chapter5/ObservableRetryExample03.java
+ com.rxJava.chapter5.ObservableRetryExample03
+com/rxJava/chapter5/ObservableRetryExample02.java
+ com.rxJava.chapter5.ObservableRetryExample02
+com/rxJava/chapter5/ObservableRetryExample01.java
+ com.rxJava.chapter5.ObservableRetryExample01
