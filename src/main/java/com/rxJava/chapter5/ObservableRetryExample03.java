@@ -18,7 +18,7 @@ public class ObservableRetryExample03 {
                     return result;
                 })
                 .retry(3)
-                .onErrorReturn(throwable -> -1) // retry 의 시도 후, -1 결과값 리턴 
+                .onErrorReturn(throwable -> -1) // retry 의 시도 후, -1 결과값 리턴
                 .subscribe(
                         data -> System.out.println("onNext : " + data),
                         error -> System.out.println("onError : " + error),
