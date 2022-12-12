@@ -111,3 +111,13 @@ com/rxJava/chapter5/chapter0507/ObservableMaterialExample01.java
  com.rxJava.chapter5.chapter0507.ObservableMaterialExample01
 com/rxJava/chapter5/chapter0507/ObservableMaterialExample02.java
  com.rxJava.chapter5.chapter0507.ObservableMaterialExample02
+com/rxJava/chapter5/chapter0508/ObservableAllExample.java
+ com.rxJava.chapter5.chapter0508.ObservableAllExample
+com/rxJava/chapter5/chapter0508/ObservableAmbExample.java
+ com.rxJava.chapter5.chapter0508.ObservableAmbExample
+com/rxJava/chapter5/chapter0508/ObservableContainsExample.java
+ com.rxJava.chapter5.chapter0508.ObservableContainsExample
+com/rxJava/chapter5/chapter0508/ObservableDefaultIfEmptyExample.java
+ com.rxJava.chapter5.chapter0508.ObservableDefaultIfEmptyExample
+com/rxJava/chapter5/chapter0508/ObservableSequenceEqualExample.java
+ com.rxJava.chapter5.chapter0508.ObservableSequenceEqualExample
