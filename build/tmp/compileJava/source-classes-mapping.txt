@@ -121,3 +121,11 @@ com/rxJava/chapter5/chapter0508/ObservableDefaultIfEmptyExample.java
  com.rxJava.chapter5.chapter0508.ObservableDefaultIfEmptyExample
 com/rxJava/chapter5/chapter0508/ObservableSequenceEqualExample.java
  com.rxJava.chapter5.chapter0508.ObservableSequenceEqualExample
+com/rxJava/chapter5/chapter0509/ObservableCountExample01.java
+ com.rxJava.chapter5.chapter0509.ObservableCountExample01
+com/rxJava/chapter5/chapter0509/ObservableReduceExample01.java
+ com.rxJava.chapter5.chapter0509.ObservableReduceExample01
+com/rxJava/chapter5/chapter0509/ObservableScanExample01.java
+ com.rxJava.chapter5.chapter0509.ObservableScanExample01
+com/rxJava/chapter5/chapter0509/quiz/Quiz.java
+ com.rxJava.chapter5.chapter0509.quiz.Quiz
