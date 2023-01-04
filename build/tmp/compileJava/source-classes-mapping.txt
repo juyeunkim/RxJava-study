@@ -129,3 +129,13 @@ com/rxJava/chapter5/chapter0509/ObservableScanExample01.java
  com.rxJava.chapter5.chapter0509.ObservableScanExample01
 com/rxJava/chapter5/chapter0509/quiz/Quiz.java
  com.rxJava.chapter5.chapter0509.quiz.Quiz
+com/rxJava/chapter6/PublishSubjectExample.java
+ com.rxJava.chapter6.PublishSubjectExample
+com/rxJava/chapter6/AsyncSubjectExample.java
+ com.rxJava.chapter6.AsyncSubjectExample
+com/rxJava/chapter6/BehaviorSubjectExample.java
+ com.rxJava.chapter6.BehaviorSubjectExample
+com/rxJava/chapter6/ReplaySubjectExample02.java
+ com.rxJava.chapter6.ReplaySubjectExample02
+com/rxJava/chapter6/ReplaySubjectExample01.java
+ com.rxJava.chapter6.ReplaySubjectExample01
