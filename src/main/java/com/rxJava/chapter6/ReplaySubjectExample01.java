@@ -9,7 +9,8 @@ public class ReplaySubjectExample01 {
         subject.onNext(3000);
         subject.onNext(2500);
 
-        subject.subscribe(price -> System.out.println("onNext # 소비자 1 : " + price));
+        subject.doOnNext(price -> System.out.println("doOnNext # 소비자 1 : " + price))
+                .subscribe(price -> System.out.println("onNext # 소비자 1 : " + price));
         subject.onNext(3500);
 
         subject.subscribe(price -> System.out.println("onNext # 소비자 2 : " + price));

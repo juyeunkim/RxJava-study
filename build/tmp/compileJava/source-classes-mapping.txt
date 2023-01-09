@@ -139,3 +139,21 @@ com/rxJava/chapter6/ReplaySubjectExample02.java
  com.rxJava.chapter6.ReplaySubjectExample02
 com/rxJava/chapter6/ReplaySubjectExample01.java
  com.rxJava.chapter6.ReplaySubjectExample01
+utils/Logger.java
+ utils.Logger
+utils/LogType.java
+ utils.LogType
+com/rxJava/chapter7/SchedulerIOExample01.java
+ com.rxJava.chapter7.SchedulerIOExample01
+com/rxJava/chapter7/SchedulerIOExample02.java
+ com.rxJava.chapter7.SchedulerIOExample02
+com/rxJava/chapter7/SchedulerIOExample03.java
+ com.rxJava.chapter7.SchedulerIOExample03
+com/rxJava/chapter7/SchedulerComputationExample.java
+ com.rxJava.chapter7.SchedulerComputationExample
+com/rxJava/chapter7/SchedulerNewThreadExample.java
+ com.rxJava.chapter7.SchedulerNewThreadExample
+com/rxJava/chapter7/SchedulerSingleExample.java
+ com.rxJava.chapter7.SchedulerSingleExample
+com/rxJava/chapter7/SchedulerTrampolineExample.java
+ com.rxJava.chapter7.SchedulerTrampolineExample
