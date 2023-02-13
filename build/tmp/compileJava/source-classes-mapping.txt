@@ -161,12 +161,14 @@ com/rxJava/chapter8/DoOnSubscribeExample.java
  com.rxJava.chapter8.DoOnSubscribeExample
 com/rxJava/chapter8/DoOnErrorExample.java
  com.rxJava.chapter8.DoOnErrorExample
-com/rxJava/chapter8/DoOnNextExample.java
- com.rxJava.chapter8.DoOnNextExample
-com/rxJava/chapter8/DoOnCompleteExample.java
- com.rxJava.chapter8.DoOnCompleteExample
 com/rxJava/chapter8/DoOnEachExample.java
  com.rxJava.chapter8.DoOnEachExample
 com/rxJava/chapter8/DoOnDisposeExample.java
  com.rxJava.chapter8.DoOnDisposeExample
  com.rxJava.chapter8.DoOnDisposeExample$1
+com/rxJava/chapter8/DoOnCompleteExample.java
+ com.rxJava.chapter8.DoOnCompleteExample
+com/rxJava/chapter9/SampleObservable.java
+ com.rxJava.chapter9.SampleObservable
+com/rxJava/chapter8/DoOnNextExample.java
+ com.rxJava.chapter8.DoOnNextExample
