@@ -153,7 +153,20 @@ com/rxJava/chapter7/SchedulerComputationExample.java
  com.rxJava.chapter7.SchedulerComputationExample
 com/rxJava/chapter7/SchedulerNewThreadExample.java
  com.rxJava.chapter7.SchedulerNewThreadExample
-com/rxJava/chapter7/SchedulerSingleExample.java
- com.rxJava.chapter7.SchedulerSingleExample
 com/rxJava/chapter7/SchedulerTrampolineExample.java
  com.rxJava.chapter7.SchedulerTrampolineExample
+com/rxJava/chapter7/SchedulerSingleExample.java
+ com.rxJava.chapter7.SchedulerSingleExample
+com/rxJava/chapter8/DoOnSubscribeExample.java
+ com.rxJava.chapter8.DoOnSubscribeExample
+com/rxJava/chapter8/DoOnErrorExample.java
+ com.rxJava.chapter8.DoOnErrorExample
+com/rxJava/chapter8/DoOnNextExample.java
+ com.rxJava.chapter8.DoOnNextExample
+com/rxJava/chapter8/DoOnCompleteExample.java
+ com.rxJava.chapter8.DoOnCompleteExample
+com/rxJava/chapter8/DoOnEachExample.java
+ com.rxJava.chapter8.DoOnEachExample
+com/rxJava/chapter8/DoOnDisposeExample.java
+ com.rxJava.chapter8.DoOnDisposeExample
+ com.rxJava.chapter8.DoOnDisposeExample$1
