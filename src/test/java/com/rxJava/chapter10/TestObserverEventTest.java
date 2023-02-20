@@ -17,7 +17,7 @@ public class TestObserverEventTest {
         boolean result = Observable.interval(200L, TimeUnit.MILLISECONDS)
                 .doOnNext(data -> Logger.log(LogType.DO_ON_NEXT, data))
                 .take(5)
-                .doOnComplete(() -> Logger.log(LogType.DO_ON_COMPLETE))
+//                .doOnComplete(() -> Logger.log(LogType.DO_ON_COMPLETE)) // 해당 부분 주석해야 isTerminated 가 true 가 나옴..
                 .doOnError(error -> Logger.log(LogType.DO_ON_ERROR, error.getMessage()))
                 .test()
                 .awaitCount(5)
